@@ -1,3 +1,3 @@
 # hello-world
-It is an example.\n
+It is an example.
 This is the first git edit.
