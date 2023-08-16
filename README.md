@@ -1,3 +1,2 @@
-# hello-world
-It is an example.
-This is the first git edit.
+# Practice of machine learning
+Python machine learning 3rd edition
